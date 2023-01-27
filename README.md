@@ -1,2 +1,1 @@
-# repositoriohenry1
-modulo 2 repositorio breve introduccion github
+Este proyecto es una prueba y clonarlo desde github hasta la computadora
